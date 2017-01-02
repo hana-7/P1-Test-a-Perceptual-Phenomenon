@@ -1,0 +1,6 @@
+References:
+
+1. <https://discussions.udacity.com/t/creating-db-file-from-csv-files-with-non-ascii-unicode-characters/174958/6>
+2. <https://discussions.udacity.com/t/lesson-6-11-improving-street-names/16724/17>
+3. <https://gist.github.com/carlward/54ec1c91b62a5f911c42#file-sample_project-md>
+4. <https://wiki.openstreetmap.org/wiki/Elements>
